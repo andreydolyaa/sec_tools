@@ -1,3 +1,7 @@
-- [urlscan.io](https://urlscan.io/)
-  - is a free service developed to assist in scanning and analysing websites. It is used to automate the process of browsing and crawling through websites to record activities and interactions.
-    When a URL is submitted, the information recorded includes the domains and IP addresses contacted, resources requested from the domains, a snapshot of the web page, technologies utilised and other metadata about the website.
+- [urlscan.io](https://urlscan.io/) - url data and activity
+- [abuse.ch](https://abuse.ch/) - malware samples, botnet c&c intel, ssl blacklist, malicious urls, IOC etc
+- [PhishTool.com](https://app.phishtool.com/sign-up/community) - email phising analysis
+- [CyberChef](https://gchq.github.io/CyberChef/) - encryption, de/encoding, defang, compression etc
+- [whois.domaintools.com](https://whois.domaintools.com/)
+- [VirusTotal.com](https://www.virustotal.com/)
+- [talosintelligence.com](https://talosintelligence.com/) threat intelligence

@@ -5,4 +5,4 @@
 - [whois.domaintools.com](https://whois.domaintools.com/)
 - [VirusTotal.com](https://www.virustotal.com/)
 - [talosintelligence.com](https://talosintelligence.com/) threat intelligence
-- [nextron-systems.com](https://www.nextron-systems.com/valhalla/) hq yara rules
+- [nextron-systems.com/valhalla](https://www.nextron-systems.com/valhalla/) hq yara rules

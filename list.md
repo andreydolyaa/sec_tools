@@ -7,6 +7,6 @@
 - [talosintelligence.com](https://talosintelligence.com/) threat intelligence
 - [nextron-systems.com/valhalla](https://www.nextron-systems.com/valhalla/) hq yara rules
 - [https://urlhaus.abuse.ch/](https://urlhaus.abuse.ch/) - database of malicious URLs.
-- [https://urlscan.io/](https://urlscan.io/) - database of malicious URLs.
+- [https://urlscan.io/](https://urlscan.io/) - tool for scanning and analyzing websites.
 - [https://www.hybrid-analysis.com/](https://www.hybrid-analysis.com/) - malware analysis service.
 - [https://app.any.run/](https://app.any.run/) - An interactive malware analysis service, sandbox.

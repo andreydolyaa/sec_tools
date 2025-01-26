@@ -1,8 +1,12 @@
-- [urlscan.io](https://urlscan.io/) - url data and activity
+- [urlscan.io](https://urlscan.io/) - tool for scanning and analyzing websites.
 - [abuse.ch](https://abuse.ch/) - malware samples, botnet c&c intel, ssl blacklist, malicious urls, IOC etc
 - [PhishTool.com](https://app.phishtool.com/sign-up/community) - email phising analysis
 - [CyberChef](https://gchq.github.io/CyberChef/) - encryption, de/encoding, defang, compression etc
 - [whois.domaintools.com](https://whois.domaintools.com/)
-- [VirusTotal.com](https://www.virustotal.com/)
+- [VirusTotal.com](https://www.virustotal.com/) - service that analyzes files and URLs for viruses.
 - [talosintelligence.com](https://talosintelligence.com/) threat intelligence
 - [nextron-systems.com/valhalla](https://www.nextron-systems.com/valhalla/) hq yara rules
+- [https://urlhaus.abuse.ch/](https://urlhaus.abuse.ch/) - database of malicious URLs.
+- [https://urlscan.io/](https://urlscan.io/) - database of malicious URLs.
+- [https://www.hybrid-analysis.com/](https://www.hybrid-analysis.com/) - malware analysis service.
+- [https://app.any.run/](https://app.any.run/) - An interactive malware analysis service, sandbox.
